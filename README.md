@@ -1,5 +1,5 @@
- hello-world-app
-my pre-work project
+Hello From Madison! App
+My Pre-work Project
 
 App Walk-though
 <img src="https://media.giphy.com/media/mEJTuh5ohz0C1Ivw71/giphy.gif" width=200><br>

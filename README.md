@@ -2,7 +2,7 @@
 my pre-work project
 
 App Walk-though
-<img src="https://recordit.co/lT4aGPlBv3" width=200><br>
+<img src="<iframe src="https://giphy.com/embed/mEJTuh5ohz0C1Ivw71" width="232" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mEJTuh5ohz0C1Ivw71">via GIPHY</a></p>"
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
